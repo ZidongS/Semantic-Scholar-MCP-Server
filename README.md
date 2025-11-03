@@ -1,6 +1,19 @@
+<table style="border: none;">
+<tr>
+<td width="66%" style="vertical-align: top; border: none;">
+
 # Semantic Scholar MCP Server
 
 A powerful wrapper for the [Semantic Scholar Graph API](https://api.semanticscholar.org/) implemented as an MCP (Multi-agent Control Protocol) server. This server provides a collection of tools for academic research agents to seamlessly access and query the Semantic Scholar database of academic papers, authors, and citations.
+
+</td>
+<td width="34%" style="text-align: center; border: none;">
+
+![Semantic Scholar MCP Server](logo.png)
+
+</td>
+</tr>
+</table>
 
 ## Features
 
