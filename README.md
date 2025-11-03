@@ -30,6 +30,7 @@ cd Semantic-Scholar-MCP-Server
 2. Install the required dependencies:
 
 ```bash
+# after enter conda or uv environment
 pip install -e .
 ```
 
@@ -50,14 +51,14 @@ The Semantic Scholar API can be used without an API key, but with stricter rate 
 
    **Method 1: Environment Variable** (Recommended for production)
    ```bash
-export SEMANTIC_SCHOLAR_API_KEY=your_api_key_here
+   export SEMANTIC_SCHOLAR_API_KEY=your_api_key_here
    ```
 
    **Method 2: Configuration File**
    Edit the `config.yaml` file in the project directory:
-   ```yaml
-semantic_scholar:
-  api_key: your_api_key_here
+   ```bash
+   semantic_scholar:
+   api_key: your_api_key_here
    ```
 
 ### Server Configuration
