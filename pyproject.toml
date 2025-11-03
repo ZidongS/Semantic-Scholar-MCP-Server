@@ -1,0 +1,11 @@
+[project]
+name = "semantic-scholar-mcp-server"
+version = "0.1.0"
+description = "Semantic Scholar API wrapper as MCP tools for academic research agents"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp",
+    "requests>=2.31",
+    "pyyaml>=6.0",
+]
