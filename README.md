@@ -36,7 +36,7 @@ A powerful wrapper for the [Semantic Scholar Graph API](https://api.semanticscho
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Semantic-Scholar-MCP-Server.git
+git clone https://github.com/ZidongS/Semantic-Scholar-MCP-Server.git
 cd Semantic-Scholar-MCP-Server
 ```
 
