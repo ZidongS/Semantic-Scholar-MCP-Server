@@ -44,7 +44,7 @@ cd Semantic-Scholar-MCP-Server
 
 ```bash
 # after enter conda or uv environment
-pip install -e .
+(uv) pip install -e .
 ```
 
 This will install the following dependencies:
